@@ -26,4 +26,3 @@ Setting up the attribute [Authorize] linked with the roles
   
   ### __Demo__
 
-//![payroll](https://github.com/rnumata/ANDROID-Payroll/blob/master/payroll.gif)
