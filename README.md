@@ -4,7 +4,7 @@ MyIdentiyApp
 
 ### __Description__
 
-This application was developed following the free course of [Macoratti](http://www.macoratti.net/20/05/aspc_crident1.htm) AspNetCore Identity</br>
+This application was developed following the free course of [Macoratti](http://www.macoratti.net/20/05/aspc_crident1.htm) <strong>AspNetCore Identity</strong></br>
 ASP.NET Core Identity provides a framework for managing and storing user accounts in ASP.NET Core apps</br>
 It is a secured way of authentication methods.
 
@@ -13,7 +13,7 @@ It is a secured way of authentication methods.
 VS Community 2019 </br>
 Microsoft.AspNetCore.App 3.1.10</br>
 Microsoft.EntityFrameworkCore 3.1.9</br>
-Npgsql.EntityFrameworkCore.PostgreSQL 3.1.0
+Npgsql.EntityFrameworkCore.PostgreSQL 3.1.0</br>
 Microsoft.AspNetCore.Identity.EntityFrameworkCore 3.1.9</br>
 
 ### __Learnings__
