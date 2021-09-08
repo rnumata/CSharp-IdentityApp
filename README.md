@@ -22,4 +22,8 @@ The development of an application with the technology ASP.Net Core applying the 
 Setting up the dependencies of AspNetCore.Identity.EntityFrameworkCore and create all the tables concerning of it in the DB</br>
 Apply the methods of the class UserManager<IndentityUser> (CRUD the users in the DB), the class SignInManager<IndentityUser> (to login an user)</br>
   ,as well as, the class RoleManager<IdentityRole> (to manage the user role)</br>
-Setting up the attribute [Authorize] linked with the roles    
+Setting up the attribute [Authorize] linked with the roles
+  
+  ### __Demo__
+
+<--!![payroll](https://github.com/rnumata/ANDROID-Payroll/blob/master/payroll.gif)-->
