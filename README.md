@@ -4,7 +4,7 @@ MyIdentiyApp
 
 ### __Description__
 
-This application was developed following the free course of <a href="macoratti.net"</a>
+This application was developed following the free course of [Macoratti](http://www.macoratti.net/20/05/aspc_crident1.htm)
 ASP.NET Core Identity provides a framework for managing and storing user accounts in ASP.NET Core apps</br>
 It is a secured way of authentication methods.
 
