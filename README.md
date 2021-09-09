@@ -26,8 +26,14 @@ Setting up the attribute [Authorize] linked with the roles
   
   ### __Demo__
   
-  #### Sign Up a new user </br>
-  <img width="960px" src="https://github.com/rnumata/CSharp-IdentityApp/blob/master/gifs/Sign-up-user.gif">
-
-
+  #### - SignUp a new user </br>
+  <img width="960px" src="https://github.com/rnumata/CSharp-IdentityApp/blob/master/gifs/Sign-up-user.gif"></br></br>
   
+  #### - SignIn </br> 
+  <img width="960px" src="https://github.com/rnumata/CSharp-IdentityApp/blob/master/gifs/Login-to-acess-menu.gif"></br></br>
+  
+  #### - [Authorized] on a IActionResult </br> 
+  <img width="960px" src="https://github.com/rnumata/CSharp-IdentityApp/blob/master/gifs/Only-authorized.gif"></br></br>
+  
+  #### - Setting the Role to a user </br> 
+  <img width="960px" src="https://github.com/rnumata/CSharp-IdentityApp/blob/master/gifs/Admin-giving-role.gif"></br></br>
