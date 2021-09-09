@@ -26,7 +26,7 @@ Setting up the attribute [Authorize] linked with the roles
   
   ### __Demo__
   
-  ## Example of Sign Up an user
+  #### Sign Up a new user </br>
   <img width="960px" src="https://github.com/rnumata/CSharp-IdentityApp/blob/master/gifs/Sign-up-user.gif">
 
 
