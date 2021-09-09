@@ -25,4 +25,5 @@ Apply the methods of the class UserManager<IndentityUser> (CRUD the users in the
 Setting up the attribute [Authorize] linked with the roles
   
   ### __Demo__
-
+![IdentityApp](https://github.com/rnumata/IdentityApp/blob/master/gifs/Sign-up-user.gif)
+  
