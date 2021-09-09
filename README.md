@@ -25,7 +25,7 @@ Apply the methods of the class UserManager<IndentityUser> (CRUD the users in the
 Setting up the attribute [Authorize] linked with the roles
   
   ### __Demo__
-  <img src="https://github.com/rnumata/CSharp-IdentityApp/blob/master/gifs/Sign-up-user.gif">
+  <img width="200px" src="https://github.com/rnumata/CSharp-IdentityApp/blob/master/gifs/Sign-up-user.gif">
 
 
   
